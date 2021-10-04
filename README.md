@@ -14,6 +14,17 @@
 1. Create a 4x4 matrix with values ranging from 0 to 3.
 2. Create and array with shape of 4x4 and turn it into two arrays along the second axis.
 
-#### 3. Tugas Minggu 2
-#### 4. Tugas Minggu 3
-#### 5. Tugas Minggu 4
+#### 2. Tugas Minggu 2
+**Exercise 4**
+1. Find all trips that is greater than 10 miles and originated from New York and Morrisville
+
+Hint: use `and`
+
+**Exercise 5**
+1. Create a new column with the following condition:\
+    a) >10    : Long Trip\
+    b) 5-10   : Medium Trip\
+    c) <5     : Short Trip
+
+#### 3. Tugas Minggu 3
+#### 4. Tugas Minggu 4
